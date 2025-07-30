@@ -363,10 +363,6 @@ const Portfolio = () => {
               </p>
               <div className="flex flex-wrap gap-4">
                 <div className="bg-gray-100 px-4 py-2 rounded-full border border-gray-200">
-                  <span className="text-blue-600 font-semibold">2+</span> Years
-                  Experience
-                </div>
-                <div className="bg-gray-100 px-4 py-2 rounded-full border border-gray-200">
                   <span className="text-blue-600 font-semibold">4</span>{" "}
                   Products Shipped
                 </div>
