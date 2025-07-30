@@ -351,11 +351,7 @@ const Portfolio = () => {
                 platforms
               </h3>
               <p className="text-gray-600 text-lg leading-relaxed mb-6 font-light">
-                I'm a Sydney‑based developer with{" "}
-                <span className="font-medium text-gray-900">
-                  2&nbsp;years of professional experience
-                </span>{" "}
-                shipping production‑ready software for startups, research labs
+                I'm a Sydney‑based developer shipping production‑ready software for startups, research labs
                 and community organisations. I thrive on turning ideas into
                 fast, accessible web apps with Next.js and translating them into
                 buttery‑smooth native experiences across the Apple ecosystem.
